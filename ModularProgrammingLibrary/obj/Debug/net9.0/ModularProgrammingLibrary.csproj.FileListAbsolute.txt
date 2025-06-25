@@ -1,0 +1,11 @@
+C:\Users\zekam\Desktop\Study\Class\ModularProgrammingLibrary\bin\Debug\net9.0\ModularProgrammingLibrary.deps.json
+C:\Users\zekam\Desktop\Study\Class\ModularProgrammingLibrary\bin\Debug\net9.0\ModularProgrammingLibrary.dll
+C:\Users\zekam\Desktop\Study\Class\ModularProgrammingLibrary\bin\Debug\net9.0\ModularProgrammingLibrary.pdb
+C:\Users\zekam\Desktop\Study\Class\ModularProgrammingLibrary\obj\Debug\net9.0\ModularProgrammingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zekam\Desktop\Study\Class\ModularProgrammingLibrary\obj\Debug\net9.0\ModularProgrammingLibrary.AssemblyInfoInputs.cache
+C:\Users\zekam\Desktop\Study\Class\ModularProgrammingLibrary\obj\Debug\net9.0\ModularProgrammingLibrary.AssemblyInfo.cs
+C:\Users\zekam\Desktop\Study\Class\ModularProgrammingLibrary\obj\Debug\net9.0\ModularProgrammingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\zekam\Desktop\Study\Class\ModularProgrammingLibrary\obj\Debug\net9.0\ModularProgrammingLibrary.dll
+C:\Users\zekam\Desktop\Study\Class\ModularProgrammingLibrary\obj\Debug\net9.0\refint\ModularProgrammingLibrary.dll
+C:\Users\zekam\Desktop\Study\Class\ModularProgrammingLibrary\obj\Debug\net9.0\ModularProgrammingLibrary.pdb
+C:\Users\zekam\Desktop\Study\Class\ModularProgrammingLibrary\obj\Debug\net9.0\ref\ModularProgrammingLibrary.dll
